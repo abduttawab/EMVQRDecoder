@@ -1,0 +1,11 @@
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\bin\Debug\EMVQRDecoder.exe.config
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\bin\Debug\EMVQRDecoder.exe
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\bin\Debug\EMVQRDecoder.pdb
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\bin\Debug\EMVDecodeLib.dll
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\bin\Debug\EMVDecodeLib.pdb
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\obj\Debug\EMVQRDecoder.csprojResolveAssemblyReference.cache
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\obj\Debug\EMVQRDecoder.EMVQRDecoder.resources
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\obj\Debug\EMVQRDecoder.Properties.Resources.resources
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\obj\Debug\EMVQRDecoder.csproj.GenerateResource.Cache
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\obj\Debug\EMVQRDecoder.exe
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVQRDecoder\obj\Debug\EMVQRDecoder.pdb

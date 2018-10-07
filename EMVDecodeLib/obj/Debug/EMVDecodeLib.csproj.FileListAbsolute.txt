@@ -1,0 +1,5 @@
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVDecodeLib\bin\Debug\EMVDecodeLib.dll
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVDecodeLib\bin\Debug\EMVDecodeLib.pdb
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVDecodeLib\obj\Debug\EMVDecodeLib.csprojResolveAssemblyReference.cache
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVDecodeLib\obj\Debug\EMVDecodeLib.dll
+D:\Asif Doc\Projects\DotNet\WindowsApp\EMVDecode\EMVDecodeLib\obj\Debug\EMVDecodeLib.pdb
